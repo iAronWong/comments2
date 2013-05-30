@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 #import "ASIHTTPRequest.h"
 @interface CommentsMasterViewController : UITableViewController
-@property (nonatomic,strong) ASIHTTPRequest *request;
+@property (nonatomic,strong) ASIHTTPRequest *request;//
 @end
